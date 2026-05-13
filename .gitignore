@@ -1,8 +1,10 @@
-dataset/
-*.csv
-dataset/
-*.csv
-dataset/
-*.csv
 
-results/
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
+.idea/
